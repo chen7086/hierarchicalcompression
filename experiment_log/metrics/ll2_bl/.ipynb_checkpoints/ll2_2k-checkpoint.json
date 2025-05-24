@@ -1,0 +1,48 @@
+{
+  "per_dataset_score": {
+    "narrativeqa": 0.12437254901960784,
+    "qasper": 0.4613676449119854,
+    "multifieldqa_en": 0.45442214595627983,
+    "hotpotqa": 0.5451666666666667,
+    "2wikimqa": 0.5567619047619048,
+    "musique": 0.386,
+    "gov_report": 0.25283411784306525,
+    "qmsum": 0.19483797012527945,
+    "multi_news": 0.22838114746640162,
+    "lcc": 0.47056,
+    "repobench-p": 0.51664,
+    "passage_count": 0.02,
+    "passage_retrieval_en": 0.8884126984126983,
+    "trec": 0.02,
+    "triviaqa": 0.48533333333333334,
+    "samsum": 0.31232078381720757
+  },
+  "per_dataset_avg_tokens": {
+    "narrativeqa": 2141.12,
+    "qasper": 2056.56,
+    "multifieldqa_en": 1992.8157894736842,
+    "hotpotqa": 2105.54,
+    "2wikimqa": 2032.0,
+    "musique": 2139.5,
+    "gov_report": 2091.38,
+    "qmsum": 1814.1,
+    "multi_news": 1698.7,
+    "lcc": 1881.136,
+    "repobench-p": 1722.824,
+    "passage_count": 2251.66,
+    "passage_retrieval_en": 2258.7,
+    "trec": 2403.34,
+    "triviaqa": 2005.62,
+    "samsum": 1866.44
+  },
+  "summary_score": {
+    "SingleDoc": 0.34672077996262435,
+    "MultiDoc": 0.4959761904761905,
+    "Summ.": 0.22535107847824878,
+    "FewShot": 0.2725513723835136,
+    "Synth.": 0.45420634920634917,
+    "Code": 0.4936,
+    "AVG": 0.3698381851446519
+  },
+  "overall_avg_tokens": 1993.0223880597016
+}

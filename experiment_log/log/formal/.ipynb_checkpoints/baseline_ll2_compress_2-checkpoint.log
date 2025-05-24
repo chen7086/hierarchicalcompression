@@ -1,0 +1,160 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100   219  100   219    0     0    148      0  0:00:01  0:00:01 --:--:--   148
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100   219  100   219    0     0    108      0  0:00:02  0:00:02 --:--:--   108
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+
+Preloading Datasets:   0%|          | 0/16 [00:00<?, ?it/s]Preloading Datasets:   6%|▋         | 1/16 [00:05<01:29,  5.94s/it]Preloading Datasets:  12%|█▎        | 2/16 [00:10<01:08,  4.90s/it]Preloading Datasets:  19%|█▉        | 3/16 [00:12<00:48,  3.72s/it]Preloading Datasets:  25%|██▌       | 4/16 [00:14<00:37,  3.09s/it]Preloading Datasets:  31%|███▏      | 5/16 [00:17<00:34,  3.15s/it]Preloading Datasets:  38%|███▊      | 6/16 [00:20<00:28,  2.82s/it]Preloading Datasets:  44%|████▍     | 7/16 [00:22<00:24,  2.72s/it]Preloading Datasets:  50%|█████     | 8/16 [00:24<00:20,  2.51s/it]Preloading Datasets:  56%|█████▋    | 9/16 [00:26<00:16,  2.40s/it]Preloading Datasets:  62%|██████▎   | 10/16 [00:29<00:14,  2.42s/it]Preloading Datasets:  69%|██████▉   | 11/16 [00:31<00:11,  2.34s/it]Preloading Datasets:  75%|███████▌  | 12/16 [00:33<00:09,  2.41s/it]Preloading Datasets:  81%|████████▏ | 13/16 [00:36<00:06,  2.32s/it]Preloading Datasets:  88%|████████▊ | 14/16 [00:38<00:04,  2.40s/it]Preloading Datasets:  94%|█████████▍| 15/16 [00:43<00:03,  3.10s/it]Preloading Datasets: 100%|██████████| 16/16 [00:45<00:00,  2.92s/it]Preloading Datasets: 100%|██████████| 16/16 [00:45<00:00,  2.87s/it]
+
+Datasets:   0%|          | 0/16 [00:00<?, ?it/s]Token indices sequence length is longer than the specified maximum sequence length for this model (34743 > 512). Running this sequence through the model will result in indexing errors
+Datasets:   6%|▋         | 1/16 [06:00<1:30:08, 360.59s/it]Datasets:  12%|█▎        | 2/16 [07:04<43:22, 185.89s/it]  Datasets:  19%|█▉        | 3/16 [08:09<28:23, 131.01s/it]Datasets:  25%|██▌       | 4/16 [10:50<28:33, 142.80s/it]Datasets:  31%|███▏      | 5/16 [12:20<22:40, 123.71s/it]Datasets:  38%|███▊      | 6/16 [15:36<24:42, 148.22s/it]Datasets:  44%|████▍     | 7/16 [17:53<21:41, 144.56s/it]Datasets:  50%|█████     | 8/16 [20:48<20:34, 154.29s/it]Datasets:  56%|█████▋    | 9/16 [21:08<13:05, 112.15s/it]Datasets:  62%|██████▎   | 10/16 [22:16<09:52, 98.70s/it]Datasets:  69%|██████▉   | 11/16 [32:11<20:53, 250.61s/it]Datasets:  75%|███████▌  | 12/16 [44:25<26:30, 397.53s/it]Datasets:  81%|████████▏ | 13/16 [54:09<22:42, 454.20s/it]Datasets:  88%|████████▊ | 14/16 [58:13<13:01, 390.61s/it]Datasets:  94%|█████████▍| 15/16 [1:05:22<06:42, 402.03s/it]Datasets: 100%|██████████| 16/16 [1:10:52<00:00, 380.40s/it]Datasets: 100%|██████████| 16/16 [1:10:52<00:00, 265.76s/it]
+/root/DL_A2/code/cpc-main/evaluation/result/formal/ll2_bl/ll2_3k.json
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   219  100   219    0     0    385      0 --:--:-- --:--:-- --:--:--   386
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100   219  100   219    0     0     72      0  0:00:03  0:00:03 --:--:--    72
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+
+Preloading Datasets:   0%|          | 0/16 [00:00<?, ?it/s]Preloading Datasets:   6%|▋         | 1/16 [00:09<02:15,  9.06s/it]Preloading Datasets:  12%|█▎        | 2/16 [00:12<01:18,  5.58s/it]Preloading Datasets:  19%|█▉        | 3/16 [00:14<00:53,  4.11s/it]Preloading Datasets:  25%|██▌       | 4/16 [00:16<00:40,  3.34s/it]Preloading Datasets:  31%|███▏      | 5/16 [00:19<00:33,  3.01s/it]Preloading Datasets:  38%|███▊      | 6/16 [00:21<00:27,  2.74s/it]Preloading Datasets:  44%|████▍     | 7/16 [00:24<00:25,  2.78s/it]Preloading Datasets:  50%|█████     | 8/16 [00:26<00:20,  2.56s/it]Preloading Datasets:  56%|█████▋    | 9/16 [00:28<00:17,  2.46s/it]Preloading Datasets:  62%|██████▎   | 10/16 [00:30<00:14,  2.37s/it]Preloading Datasets:  69%|██████▉   | 11/16 [00:32<00:11,  2.29s/it]Preloading Datasets:  75%|███████▌  | 12/16 [00:35<00:09,  2.50s/it]Preloading Datasets:  81%|████████▏ | 13/16 [00:39<00:08,  2.90s/it]Preloading Datasets:  88%|████████▊ | 14/16 [00:41<00:05,  2.70s/it]Preloading Datasets:  94%|█████████▍| 15/16 [00:44<00:02,  2.66s/it]Preloading Datasets: 100%|██████████| 16/16 [00:46<00:00,  2.61s/it]Preloading Datasets: 100%|██████████| 16/16 [00:46<00:00,  2.94s/it]
+
+Datasets:   0%|          | 0/16 [00:00<?, ?it/s]Token indices sequence length is longer than the specified maximum sequence length for this model (34743 > 512). Running this sequence through the model will result in indexing errors
+Datasets:   6%|▋         | 1/16 [16:23<4:05:53, 983.59s/it]Datasets:  12%|█▎        | 2/16 [19:48<2:02:41, 525.82s/it]Datasets:  19%|█▉        | 3/16 [23:10<1:21:51, 377.84s/it]Datasets:  25%|██▌       | 4/16 [31:23<1:24:37, 423.16s/it]Datasets:  31%|███▏      | 5/16 [35:49<1:07:13, 366.71s/it]Datasets:  38%|███▊      | 6/16 [45:50<1:14:22, 446.22s/it]Datasets:  44%|████▍     | 7/16 [52:57<1:05:58, 439.80s/it]Datasets:  50%|█████     | 8/16 [1:01:47<1:02:27, 468.49s/it]Datasets:  56%|█████▋    | 9/16 [1:03:38<41:37, 356.80s/it]  Datasets:  62%|██████▎   | 10/16 [1:09:16<35:06, 351.10s/it]Datasets:  69%|██████▉   | 11/16 [1:26:32<46:43, 560.65s/it]Datasets:  75%|███████▌  | 12/16 [1:38:35<40:39, 609.97s/it]Datasets:  81%|████████▏ | 13/16 [1:48:11<29:59, 599.74s/it]Datasets:  88%|████████▊ | 14/16 [1:52:24<16:29, 494.93s/it]Datasets:  94%|█████████▍| 15/16 [1:59:36<07:56, 476.20s/it]Datasets: 100%|██████████| 16/16 [2:06:40<00:00, 460.37s/it]Datasets: 100%|██████████| 16/16 [2:06:40<00:00, 475.03s/it]
+/root/DL_A2/code/cpc-main/evaluation/result/formal/ll2_bl/ll2_0.5k.json
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+
+Preloading Datasets:   0%|          | 0/16 [00:00<?, ?it/s]Preloading Datasets:   0%|          | 0/16 [00:11<?, ?it/s]
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/urllib3/connectionpool.py", line 844, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/urllib3/util/retry.py", line 515, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/datasets/THUDM/LongBench/revision/a8b3fea296d0126b1887abb5ad2004d9184344fc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/DL_A2/code/cpc-main/evaluation/ll2_compress.py", line 164, in <module>
+    main(args)
+  File "/root/DL_A2/code/cpc-main/evaluation/ll2_compress.py", line 52, in main
+    dataset_examples[ds] = list(load_dataset(
+                                ^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/datasets/load.py", line 2062, in load_dataset
+    builder_instance = load_dataset_builder(
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/datasets/load.py", line 1819, in load_dataset_builder
+    builder_instance: DatasetBuilder = builder_cls(
+                                       ^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/datasets/builder.py", line 343, in __init__
+    self.config, self.config_id = self._create_builder_config(
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/datasets/builder.py", line 598, in _create_builder_config
+    builder_config._resolve_data_files(
+  File "/root/miniconda3/lib/python3.12/site-packages/datasets/builder.py", line 207, in _resolve_data_files
+    self.data_files = self.data_files.resolve(base_path, download_config)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/datasets/data_files.py", line 789, in resolve
+    out[key] = data_files_patterns_list.resolve(base_path, download_config)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/datasets/data_files.py", line 752, in resolve
+    origin_metadata = _get_origin_metadata(data_files, download_config=download_config)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/datasets/data_files.py", line 507, in _get_origin_metadata
+    return thread_map(
+           ^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/tqdm/contrib/concurrent.py", line 69, in thread_map
+    return _executor_map(ThreadPoolExecutor, fn, *iterables, **tqdm_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/tqdm/contrib/concurrent.py", line 51, in _executor_map
+    return list(tqdm_class(ex.map(fn, *iterables, chunksize=chunksize), **kwargs))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/tqdm/std.py", line 1169, in __iter__
+    for obj in iterable:
+  File "/root/miniconda3/lib/python3.12/concurrent/futures/_base.py", line 619, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/concurrent/futures/_base.py", line 317, in _result_or_cancel
+    return fut.result(timeout)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/concurrent/futures/_base.py", line 456, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/root/miniconda3/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/datasets/data_files.py", line 486, in _get_single_origin_metadata
+    resolved_path = fs.resolve_path(data_file)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/hf_file_system.py", line 198, in resolve_path
+    repo_and_revision_exist, err = self._repo_and_revision_exist(repo_type, repo_id, revision)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/hf_file_system.py", line 125, in _repo_and_revision_exist
+    self._api.repo_info(
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/hf_api.py", line 2807, in repo_info
+    return method(
+           ^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/hf_api.py", line 2664, in dataset_info
+    r = get_session().get(path, headers=headers, timeout=timeout, params=params)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 96, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/miniconda3/lib/python3.12/site-packages/requests/adapters.py", line 698, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: (MaxRetryError("HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/datasets/THUDM/LongBench/revision/a8b3fea296d0126b1887abb5ad2004d9184344fc (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)')))"), '(Request ID: 81eb4066-ba87-4437-8381-f188f50a88a2)')
